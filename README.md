@@ -1,6 +1,6 @@
 # EX:4 Attach Rifle with character mesh and implementation bullet spawn from Rifle
 
-## Name   : AKSHAI KHANNA D
+## Name   : AKSHAI KHANNA.D
 ## Reg No : 212223040010
 
 ### AIM
